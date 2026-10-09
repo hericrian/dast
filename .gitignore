@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.pyc
+universidade.db
+report_html.html
